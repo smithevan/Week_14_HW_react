@@ -8,7 +8,7 @@ class CommentBox extends Component {
     this.state = {
       comments: [
         {
-          id: 1, 
+          id: 1,
           author: "Alex",
           quote: "Ace"
         },
